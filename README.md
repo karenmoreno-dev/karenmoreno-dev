@@ -1,10 +1,11 @@
 ### Hola 👋 Soy Karen Anahi Moreno,
 
-Estudiante avanzada de la Tecnicatura Universitaria en Programación, con una sólida base en lógica y un fuerte compromiso con el aprendizaje continuo. Me caracterizo por la pasión, la resiliencia y la adaptabilidad.
+Estudiante avanzada de la Tecnicatura Universitaria en Programación, con una sólida base en lógica y un fuerte compromiso con el aprendizaje continuo.
 
-- Busco desarrollar sitios web atractivos y seguros, cuidando tanto la experiencia del usuario como la integridad y seguridad de la información.  
-- 💬 Actualmente me encuentro aprendiendo sobre tecnologías en la nube para poder desplegar proyectos de forma profesional y seguir ampliando mis conocimientos.
-  
+- Busco desarrollar sitios web atractivos y seguros, cuidando tanto la experiencia del usuario como la integridad de la información.
+- En constante formación, realizo prácticas y desarrollo proyectos personales para afianzar mis conocimientos.
+- Actualmente me encuentro aprendiendo sobre tecnologías en la nube para poder desplegar y optimizar proyectos de la mejor manera posible.
+
 
 
 ## Habilidades
